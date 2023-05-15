@@ -1,0 +1,1 @@
+# ShinobuePluginMuseScore4
